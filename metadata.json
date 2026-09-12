@@ -1,0 +1,6 @@
+{
+  "name": "MelodyMusic",
+  "description": "An immersive AI-powered web music player with interactive audio engines, synchronized lyric visualizers, AI lyrics interpreters, mood curators, and sonic vibe translators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
